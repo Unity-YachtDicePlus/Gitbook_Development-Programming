@@ -18,4 +18,3 @@ layout:
 
 # 네트워크
 
-[https://www.youtube.com/watch?v=BxDWOt\_soys](https://www.youtube.com/watch?v=BxDWOt_soys)
