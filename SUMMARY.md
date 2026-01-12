@@ -4,7 +4,8 @@
 
 ## 기능구현 <a href="#features" id="features"></a>
 
-* [Page 1](features/page-1.md)
+* [네트워크](features/undefined/README.md)
+  * [사전지식](features/undefined/undefined.md)
 
 ## 최적화 <a href="#optimization" id="optimization"></a>
 
