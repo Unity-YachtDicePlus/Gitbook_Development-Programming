@@ -16,5 +16,17 @@ layout:
     visible: true
 ---
 
-# Page 2
+# Profiler Memory
+
+{% embed url="https://www.youtube.com/watch?v=52ehLUfk3DQ" %}
+
+
+
+{% embed url="https://www.youtube.com/watch?v=-F4rLtPtGLU" %}
+
+
+
+
+
+
 
